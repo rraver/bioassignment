@@ -1,6 +1,6 @@
 <style>
 
-h1 {
+header {
   font-size: 35px;
   background-color: black;
   text-align: center;
@@ -11,10 +11,17 @@ body {
   background-color: tan;
 }
 
-.biosection {
-  align-itms: right;
+#wrapper {
+  width: 500px;
+}
 
-#thisothersection
+#left {
+  width: 400px;
+  float: left;
+}
+#right {
+  float: right;
+  width: 100 px;
 }
 
 </style>
